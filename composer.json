@@ -1,12 +1,15 @@
 {
 	"name" : "nvsys/nukeviet",
-	"version" : "4.1.0",
+	"version" : "5.0.01",
 	"type" : "project",
-	"description" : "class for NukeViet 4",
+	"description" : "Class of NVSystems Ltd. ",
 	"keywords" : [
 		"cms",
 		"nukeviet",
-		"nukeviet4"
+		"nukeviet4",
+		"nukeviet5",
+		"nvsystems"
+		
 	],
 	"homepage" : "https://github.com/NukeVietSystems/nukeviet",
 	"license" : "GPL-2.0+",
@@ -14,7 +17,7 @@
 			"name" : "NVSystems Ltd.",
 			"email" : "hoangnt@nguyenvan.vn",
 			"homepage" : "http://nguyenvan.vn",
-			"role" : "Developer"
+			"role" : "Com-Dev"
 		}
 	],
 	"require" : {
@@ -22,7 +25,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"NVS\\" : "/"
+			"NVSys\\" : "/"
 		}
 	}
 }
