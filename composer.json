@@ -1,6 +1,6 @@
 {
 	"name" : "nvsys/nukeviet",
-	"version" : "5.0.01",
+	"version" : "5.0.1",
 	"type" : "project",
 	"description" : "Class of NVSystems Ltd. ",
 	"keywords" : [
@@ -25,7 +25,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"NVSys\\" : "/"
+			"NVS\\" : "/"
 		}
 	},
 	"extra": {
