@@ -1,7 +1,7 @@
 {
 	"name" : "nvsys/nukeviet",
 	"version" : "5.0.1",
-	"type" : "project",
+	"type" : "library",
 	"description" : "Class of NVSystems Ltd. ",
 	"keywords" : [
 		"cms",
