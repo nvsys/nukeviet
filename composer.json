@@ -27,5 +27,10 @@
 		"psr-4" : {
 			"NVSys\\" : "/"
 		}
-	}
+	},
+	"extra": {
+        "branch-alias": {
+            "dev-nvsystems": "5.x-dev"
+        }
+    }
 }
